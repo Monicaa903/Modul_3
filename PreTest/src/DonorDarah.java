@@ -10,7 +10,7 @@ public class DonorDarah {
         int usia = input.nextInt();
 
         System.out.print("Berat Badan (kg) : ");
-        float beratBadan = input.nextFloat();
+        float beratBadan = input.nextFloat(); 
 
         System.out.print("Kadar Hemoglobin : ");
         float hb = input.nextFloat();
